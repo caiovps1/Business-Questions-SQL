@@ -1,4 +1,4 @@
-# Business-Questions-SQL
+# Answering Business Questions using SQLite
 
 In this guided project, we're going to practice using our SQL skills to answer business questions.
 We'll use the Chinook database, which contains data from a fictional music store., and we will try to answer 
